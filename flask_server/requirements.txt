@@ -1,0 +1,9 @@
+boto3
+torch
+streamlit
+transformers
+PyPDF4
+flask
+textblob
+Flask-Cors
+chardet
