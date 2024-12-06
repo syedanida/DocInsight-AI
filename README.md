@@ -66,6 +66,40 @@ The DocInsight-AI Platform is built on the following technologies:
 <!-- ## Support
 For any questions, issues, or feedback, please contact our  team  -->
 
+
+## Steps to run
+- Getting Started
+  
+To get started with DocInsight-AI, follow these steps:
+
+1. ⁠Clone the repository from GitHub.
+
+2. Navigate to the web  directory and create a .env file that contains your google OAuth API keys.
+
+3. Install the necessary dependencies using ⁠ npm install⁠.
+
+4. Start the development server using ⁠ npm run dev.
+
+5. ⁠Navigate to the flask directory.
+
+6. ⁠Install the flask dependencies using ⁠ pip install flask⁠.
+
+7. Start flask server using ⁠ flask run.
+
+8. Access the web application through your browser.
+
+
+
+- Alternatively, if you prefer to use Docker:
+
+1. Install Docker on your system.
+
+2. ⁠Navigate to the project directory.
+
+3. ⁠Execute ⁠ docker-compose up ⁠ to start the application.
+
+4. ⁠Access the web application through your browser.
+
 ## Acknowledgments
 We would like to acknowledge the following open-source projects and datasets that have contributed to the development of our platform:
 
@@ -77,3 +111,4 @@ We would like to acknowledge the following open-source projects and datasets tha
 
 <!-- ## Disclaimer
 The Automated Legal Document Analysis Platform is intended to assist users in understanding legal documents and potential risks. However, it should not be considered a substitute for professional legal advice. Users are encouraged to consult with legal professionals before making any legal decisions or signing contracts. -->
+
